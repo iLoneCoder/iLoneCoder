@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @iLoneCoder
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Giorgi Shagidze
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning react.js
+- 📫 How to reach me 
+      e-mail: giorgii.shagidze@gmail.com
+      mobile: +995 597741436
 
 <!---
 iLoneCoder/iLoneCoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
